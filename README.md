@@ -1,10 +1,11 @@
 # ADSA-questions
-##STRINGS
+
+## STRINGS
 
 
-##ARRAY
+## ARRAY
 
 
-##SLIDING WINDOW
+## SLIDING WINDOW
 
 
