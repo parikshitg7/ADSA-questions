@@ -30,9 +30,14 @@
 
 
 
-## ARRAY
+## STRING:
 
 
-## SLIDING WINDOW
+## SLIDING WINDOW:
+
+
+## BINARY SEARCH:
+
+[LC-540](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777695393/)
 
 
