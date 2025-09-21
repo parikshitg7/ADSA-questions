@@ -40,4 +40,6 @@
 
 [LC-540](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1777695393/)
 
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1777607461/)
+
 
