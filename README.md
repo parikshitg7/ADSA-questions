@@ -5,7 +5,7 @@
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1777635910/)
 
->[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1777634746/)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1777634746/)
 
 >[15. 3Sum](https://leetcode.com/problems/3sum/submissions/1777637035/)
 
